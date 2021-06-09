@@ -2,7 +2,7 @@
 - 👀 I’m interested in the application of Deep Learning on Digital Forensics
 - 🌱 I’m currently learning "one shot learning" to assist training of facial images of datasets that are highly disproportionate in certain age ranges.
 - 💞️ I’m looking to collaborate on the improvement of facial age estimation methods.
-- 📫 How to reach me ... ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- 📫 How to reach me ... ![Image of Yaktocat](coollogo_com-261303389.png)
 
 <!---
 4ND4/4ND4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
